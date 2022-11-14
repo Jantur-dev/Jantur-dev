@@ -1,9 +1,10 @@
 <h1 align="center">Hi , I'm Jantur <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
-<p align="justify">
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AEAEAE&width=435&lines=Game+dev+%7C+Backend+dev" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AEAEAE&width=435&lines=+++++Game+dev+%7C+Backend+dev+++" alt="Typing SVG" /></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
+![EXPRESS](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 ![CSHARP](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
