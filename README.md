@@ -4,14 +4,14 @@
 </p>
 
 ### 🛠 &nbsp;Tech Stack
-![EXPRESS](https://img.shields.io/badge/-express-05122A?style=for-the-badge&logo=express)
-![NEXT](https://img.shields.io/badge/-next%20js-05122A?style=for-the-badge&logo=nextdotjs)
-![PHP](https://img.shields.io/badge/-php-05122A?style=for-the-badge&logo=php)
-![CSHARP](https://img.shields.io/badge/-csharp-05122A?style=for-the-badge&logo=csharp)
+![EXPRESS](https://img.shields.io/badge/-express-05122A?style=for-the-badge&logo=express)&nbsp;
+![NEXT](https://img.shields.io/badge/-next%20js-05122A?style=for-the-badge&logo=nextdotjs)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=for-the-badge&logo=php)&nbsp;
+![CSHARP](https://img.shields.io/badge/-csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badger&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
