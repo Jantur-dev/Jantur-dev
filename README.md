@@ -29,7 +29,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Jantur-dev"><img alt="Jantur-dev Activity " src="https://activity-graph.herokuapp.com/graph?username=Jantur-dev&custom_title=Jantur-dev%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Jantur-dev"><img alt="Jantur-dev Activity " src="https://github-readme-activity-graph.cyclic.app/graph?username=Jantur-dev&custom_title=Jantur-dev%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
  
