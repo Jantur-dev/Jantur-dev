@@ -6,7 +6,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![EXPRESS](https://img.shields.io/badge/-express-05122A?style=for-the-badge&logo=express)
 ![NEXT](https://img.shields.io/badge/-next%20js-05122A?style=for-the-badge&logo=nextdotjs)
-![PHP](https://img.shields.io/badge/-php-05122A?style=for-the-badge?style=for-the-badge&logo=php)
+![PHP](https://img.shields.io/badge/-php-05122A?style=for-the-badge&logo=php)
 ![CSHARP](https://img.shields.io/badge/-csharp-05122A?style=for-the-badge&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
